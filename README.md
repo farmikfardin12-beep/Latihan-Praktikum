@@ -1,3 +1,10 @@
+# Pemrograman Aplikasi Bergerak
+
+**Nama:** Farhan Mikdam  
+**NIM:** 2411078 
+**Kelas:** IFB5B  
+**Mata Kuliah:** Pemrograman Aplikasi Bergerak  
+
 # 🎓 Aplikasi Manajemen Tugas Mahasiswa
 
 Aplikasi Android modern yang dirancang untuk membantu mahasiswa mengelola, memantau, dan menyelesaikan tugas-tugas perkuliahan secara terorganisir, produktif, dan efisien.
